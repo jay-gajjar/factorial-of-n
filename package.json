@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jay-gajjar/factorial-of-n/issues"
   },
-  "homepage": "https://github.com/jay-gajjar/factorial-of-n#readme"
+  "homepage": "https://github.com/jay-gajjar/factorial-of-n#readme",
+  "dependencies": {
+    "factorial-of-n": "^1.0.0"
+  }
 }
