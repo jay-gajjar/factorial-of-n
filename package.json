@@ -1,0 +1,24 @@
+{
+  "name": "factorial-of-n",
+  "version": "1.0.0",
+  "description": "Find factorial of given number.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-gajjar/factorial-of-n.git"
+  },
+  "keywords": [
+    "factorial",
+    "factorial-of-n"
+  ],
+  "author": "jay-gajjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-gajjar/factorial-of-n/issues"
+  },
+  "homepage": "https://github.com/jay-gajjar/factorial-of-n#readme"
+}
